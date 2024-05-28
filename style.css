@@ -226,6 +226,24 @@ body{
 
 
 
+.home-menu-item {
+    text-decoration: none;
+    text-transform: uppercase;
+    color:rgb(255, 255, 255);
+    font-size: 21px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid rgb(255, 255, 255);
+    display: block;
+    margin: auto;
+    margin-bottom: 18px;
+    width: 80%; 
+}
+
+
+
+
+
 
 
 
